@@ -19,6 +19,6 @@ The book club is held every Wednesday on 8pm(PST) virtually. Feel free to reach 
 
 ## **Links**
 
-**Book**: http://www.effectiveengineer.com/
-**My twitter**: https://twitter.com/kei957
-**Club's slack channel(JP)**: https://frog-events.slack.com/archives/C02CLTM323S
+- **Book**: http://www.effectiveengineer.com/
+- **My twitter**: https://twitter.com/kei957
+- **Club's slack channel(JP)**: https://frog-events.slack.com/archives/C02CLTM323S
