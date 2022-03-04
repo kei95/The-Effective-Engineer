@@ -108,6 +108,69 @@ Theses six factors vary from company to company and from team to team, and their
 
 For example, onboarding and mentoring are more important for earlier of your career while autonomy matter more later on.
 
+## 5. Always be learning 
+
+Leaning opportunities aren't limited to the workplace. Always ask yourself;
+- How can I improve?
+- How could I have done this better?
+- What should I learn next to nest prepare me for the future?
+Even though your personal life or hobbies improvement might not be translate directly into engineering benefits, the practice of adopting a growth mind set toward them still makes you better learners. ***This itself is a high-leverage investment***
+Continual leaning is inextricably linked with increased happiness.
+
+**Ten starting points to help inspire a habit of learning outside of the workplace**
+
+- **Lean new programming languages and frameworks**
+  - Leaning new skills can expand your mind and teach you how to think in different ways.
+- **Invest in skills that are in high demand**
+  - Evaluate the current industry trends and demand for skills, so that you can see the "trendy" skills that you need to know. It helps you to catch up to the industry's standard.
+- **Read books**
+  - Books offer a way for you to learn from the lessons and mistakes of others.
+  - Means that you can re-apply that knowledge without having to start from scratch.
+  - This is such a high leverage investment.
+- **Join discussion group**
+  - Having a different perspective on a book helps you to expand your way to thinking.
+- **Attend talks, conferences, and meetups**
+  - It can be *hit-or-miss* in terms of quality, so ask around to see which ones are worth attending.
+- **Build and maintain a strong network of relationships**
+  - The more people you know, the more you'll find serendipitous opportunities.
+  - Richard Wiseman in **The Luck Factor** that "Lucky people dramatically increase the possibility of a lucky chance encounter by meeting a large number  of people in their daily lives.The more people they meet, the greater opportunity they have of running into someone who could have a positive effect on their lives."  
+- **Follow bloggers who teach**
+  - Bloggers can give you some great information for your career and skill, good to follow good ones
+
+- **Write to teach**
+  - Leaning by teaching is the technique of Physics Nobel Prize winner ***Richard Feynman***
+  - Writing also provides an opportunity for mindful reflection on what you've learned
+
+- **Tinker on side projects**
+  - Research suggests that creativity stems from combining existing and often disparate ideas in new ways.
+
+- **Pursue what you love**
+  - Americans spend about 34 hours watching TV per week, and average mood while watching TV highly is mildly depressed
+
+Overall, what's important the most is embracing a growth mindset in which you're motivated to learn about the things that excite you.
+By Adopting growth mindset and optimizing for leaning, you'll be best prepared to make the most of whatever opportunities do come your way.
+
+## **Key Takeaways**
+
+- **Own your story**
+    - Focus on changes that are within your sphere of influence rather than blaming the parts that you can't control.
+    - View failures and challenges through a growth mindset, and see them as opportunities to learn.
+- **Don't shortchange your learning rate**
+  - Leaning compounds like interest.
+  - The more you learn, the more you'll get better at learn new things with your prior insights and lessons you learnt from the past.
+
+- **Find work environments that can sustain your growth**
+    - Find out what opportunities they provide for onboarding and mentoring, how transparent they are internally, how fast they move, what your prospective co-workers are like, and how much autonomy you'll have.
+
+- **Capitalize on opportunities at work to improve your technical skills**
+  - Learn from your best co-workers. Study their code and their reviews.
+
+- **Locate learning opportunities outside of the workplace**
+  - Challenge yourself to become better by just 1% a day.
+  - ALl learnings don't have to be related to engineering skills.
+    
+<br />
+<br />
 
 ***Excerpt From***
 The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact
