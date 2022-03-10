@@ -7,14 +7,14 @@ For personal and professional goals, taking the time and energy to prioritize wi
 
 
 
-## 1. **Track To-Dos in a Single, Easily Accessible List**
+## **1. Track To-Dos in a Single, Easily Accessible List**
 
 The fist step in effective prioritization is listing every task you might need to do. **David Allen**, the arthur of ***Getting Things Done***, this is because the human brain is optimized for processing and not for storage. The average can actively hold only 7 +/- 2 items. Thus the goal of this activity is to free up your mind to focus on **high-leverage** activity, which is prioritizing your work.
  - Estimating both the time required and the value produced by that is incredibly hard.
  - Ask yourself on a recurring basis: *Is there something else I could be doing that's higher-leverage?*
  - The goal of this todo-list idea is not about how precisely you estimate. It's about making a habit of shifting your opt priorities toward the ones with the highest leverage, with given information you have
 
-## 2. **Focus on What Directly Produces Value**
+## **2. Focus on What Directly Produces Value**
 The time and effort expanded do not necessarily correlate with the value produced. "Activity is not necessarily production." and that many work activities "do not directly contribute towards useful output. Writing status reports, organizing things, creating organizational systems, recording things, going to meetings, and replying to low-priority communications are all examples of this."
 - The fist heuristic for prioritizing high-leverage activities is to focus on what directly produces value.
 - What matters is how much value you've created.
@@ -29,7 +29,7 @@ The time and effort expanded do not necessarily correlate with the value produce
 
 **Don't try to get everything done. Focus on what matters - and is what produces value.**
 
-## 3. **Focus on the Important and Non-Urgent**
+## **3. Focus on the Important and Non-Urgent**
 Stephen Covey - the arthur of *In The 7 Habits of Highly Effective People* explains that urgency shouldn't be confused with importance. Convey partitions the activities that we do into four quadrants, based on whether they're urgent or non-urgent and important or unimportant.
 
 ![Priority graph by Stephen Covey](priorityGraph.png "Priority graph by Stephen Covey")
@@ -45,6 +45,15 @@ Be wary if you are spending too much time on quadrant 1, it's usually firefighti
 Oftentimes, the root cause is an underinvestment in a quadrant 2 activity. E.g. high-priority bugs might be a symptom of low test coverage. Constant deadlines might be caused by poor project estimation and planning. Investing in quadrant 2 solutions can reduce urgent tasks and their associated stress.
 
 ***Prioritize the act of prioritization, and you'll be on the road to dramatically increasing your effectiveness***
+
+## **4. Protect Your Maker's Schedule**
+Engineers need longer and more contiguous blocks of time to be productive than many other professionals. Productivity increases when we an maintain periods of what psychologist Mihaly Csikszentmihalyi calls ***flow***, described by people who experience it as "a state of effortless". Flow requires focused attention; interruptions break flow.
+
+Microsoft Research found that employees take an average of 10 to 15 minutes to return to focused activity after handling email and instant messaging interruptions;
+
+You'd rather have one big chunk of focus time rather scattered short focused time. Learn to say no to unimportant activities, such as meetings don't require your attendance and other low-priority commitments that might fragment your schedule.
+
+***Protect you time and your maker's schedule***
 
 
 <br />
