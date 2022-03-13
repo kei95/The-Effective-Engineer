@@ -66,6 +66,40 @@ By clearly setting these side task as back-up plan, you'll be able to address yo
 
 ## **6. Make Routine of Prioritization**
 
+Once we're knee-deep working on those tasks, a common pitfall for many engineers is neglecting to revisit those priorities. 
+Your estimation constantly go wrong, so it's important to build a habit to be retrospective and making a habit of revisiting your priorities your tasks.
+
+The actual mechanics of how you review your priorities matter less than adopting the habit of doing it.
+The arthur'does following steps;
+
+- Have a "Current Priorities" projects that he uses to track the tasks that he wants to accomplish
+- At the beginning of the week, then he adds to the project the tasks that he wants to accomplish during that week, pulling either from backlog or from any unfinished work from the previous week.
+  - He prioritizes whatever the task that directly produces value and some long-term investments that he deems important.
+  - And generally includes learning something new
+- Each morning, he moves numbers of tasks from "this week" section to "today" section
+  - He does it in the morning since prioritizing is important yep mentally taxing
+- Anytime during a day, he picks a task, move it from "today" to "doing" section and work on it.
+- Whenever he comes up with new ideas or tasks, adds them to "today" or "this week" if they are urgent, otherwise, throw them in backlog.
+
+What's important isn't to follow this mechanism, but to find *some* system that helps you support a habit of prioritizing regularly.
+If you can build this habit, it'll help allow you to reflect on whatever you're spending time on your highest-leverage activities.
+
+When you have certain personal or professional goals that you want to achieve, you'll find that prioritization has very high leverage. You'll see its outsized impact on your ability to get the right things done. And as you get more effective at it, you'll feel incentivize to prioritize more regularly.
+## **Key Takeaways**
+
+- **Write down and review to-dos**
+    - Spend your mental energy on prioritizing and processing your tasks rather than on trying to remember them. Treat your brain as a processor, not as memory bank
+- **Work on what directly leads to value**
+  - Don't try to do everything
+  - Regularly ask yourself if there's something higher-leverage that you could be doing
+- **Work on the important and non-urgent**
+  - Prioritize long term investments that increase your effectiveness, even if they don't have a deadline
+- **Reduce context switches**
+  - Protect large blocks of time for your creative output, and limit the number of ongoing projects so that you don't spend your cognitive energy actively juggling tasks
+- **Make if-then plans to combat procrastination**
+  - Binding an intention to do something to a trigger significantly increases the likelihood that you'll get it done
+- **Make prioritization a habit**
+  - Experiment to figure out a good workflow. Prioritize regularly, and i's get easier to focus on and complete your highest-leverage activities
 
 
 <br />
