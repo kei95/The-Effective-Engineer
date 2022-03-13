@@ -55,6 +55,18 @@ You'd rather have one big chunk of focus time rather scattered short focused tim
 
 ***Protect you time and your maker's schedule***
 
+## **5. Fight Procrastination with If-Then Plans**
+
+What hinders focus isn't a lack of contiguous time or too much context switching as explained previous items. Instead, people often don't have sufficient motivations to summon activation energy required to start a difficult task.
+
+As several studies suggested, planning out what to do in advance makes higher chance to achieve the goal. So having some sub-tasks for smaller time makes you fill in these time. You can plan these ahead like;
+***If I only have 20 min for my own time, then I will review PRs***
+
+By clearly setting these side task as back-up plan, you'll be able to address your tasks without having too much procrastinations.
+
+## **6. Make Routine of Prioritization**
+
+
 
 <br />
 <br />
