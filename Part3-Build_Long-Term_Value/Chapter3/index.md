@@ -16,7 +16,7 @@ One of the biggest lessons I learned from Ooyala is - ***Investing in a positive
 
 - Your career success depends largely on your company and team’s success, and the success of your company or team depends on more than just your individual contributions.
 
-### 1. Make Hiring Everyone’s Responsibility
+## 1. Make Hiring Everyone’s Responsibility
 
 Core part of the problem of hiring is often that engineers simply aren’t spending enough time on hiring.
 
@@ -47,4 +47,4 @@ As with all skills, the only way that you can become more effective in interview
 
 The additional output from adding a strong engineer to your team far exceeds the output of many other investments that you could have.
 
-### 2. Design a Good Onboarding Process
+## 2. Design a Good Onboarding Process
